@@ -1,0 +1,8 @@
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.dll
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.pdb
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\AMS.Monitoring.Properties.Resources.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\GenerateResource.read.1.tlog
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\GenerateResource.write.1.tlog
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\AMS.Monitoring.dll
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\AMS.Monitoring.pdb

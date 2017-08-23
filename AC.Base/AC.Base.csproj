@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A3D9DA48-A92F-498E-B073-D9361324A3D4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AC.Base</RootNamespace>
+    <AssemblyName>AC.Base</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\BIN\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.DAO">
+      <HintPath>..\DLL\Interop.DAO.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.InteropServices.APIs">
+      <HintPath>..\DLL\System.Runtime.InteropServices.APIs.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.TreeListView, Version=1.0.1336.34694, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BIN\System.Windows.Forms.TreeListView.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account.cs" />
+    <Compile Include="AccountPopedomValidate.cs" />
+    <Compile Include="AccountPopedomValidateOptions.cs" />
+    <Compile Include="ApplicationClass.cs" />
+    <Compile Include="ChannelServices\ChannelServiceBase.cs" />
+    <Compile Include="ChannelServices\ChannelServiceMessageTypeOptions.cs" />
+    <Compile Include="ChannelServices\ChannelServiceStateOptions.cs" />
+    <Compile Include="ChannelServices\ChannelServiceType.cs" />
+    <Compile Include="ChannelServices\ChannelServiceTypeAttribute.cs" />
+    <Compile Include="ChannelServices\IBackConnectChannelService.cs" />
+    <Compile Include="ChannelServices\IChannelService.cs" />
+    <Compile Include="ChannelServices\IChannelServiceConfigControl.cs" />
+    <Compile Include="ChannelServices\IFrontConnectChannelService.cs" />
+    <Compile Include="ChannelServices\MasterStandbyChannelServiceBase.cs" />
+    <Compile Include="ChannelServices\TcpClientChannel.cs" />
+    <Compile Include="CityRoadBaseClassify.cs" />
+    <Compile Include="Classify.cs" />
+    <Compile Include="ClassifyBaseLamp.cs" />
+    <Compile Include="ClassifyCollection.cs" />
+    <Compile Include="ClassifySearchs\ClassifyFilterCollection.cs" />
+    <Compile Include="ClassifySearchs\ClassifyFilterType.cs" />
+    <Compile Include="ClassifySearchs\ClassifyIdSearch.cs" />
+    <Compile Include="ClassifySearchs\ClassifyParentIdSearch.cs" />
+    <Compile Include="ClassifySearchs\ClassifySearch.cs" />
+    <Compile Include="ClassifySearchs\ClassifyTypeFilter.cs" />
+    <Compile Include="ClassifySearchs\DeviceFilter.cs" />
+    <Compile Include="ClassifySearchs\IClassifyFilter.cs" />
+    <Compile Include="ClassifySearchs\IClassifyOrder.cs" />
+    <Compile Include="ClassifySearchs\IdFilter.cs" />
+    <Compile Include="ClassifySearchs\IdOrder.cs" />
+    <Compile Include="ClassifySearchs\OrdinalNumberOrder.cs" />
+    <Compile Include="ClassifySearchs\ParentIdFilter.cs" />
+    <Compile Include="ClassifyType.cs" />
+    <Compile Include="ClassifyTypeAttribute.cs" />
+    <Compile Include="CommonCustomClassify.cs" />
+    <Compile Include="CurvePartDataSave96PointOptions.cs" />
+    <Compile Include="DataAggregateTypeOptions.cs" />
+    <Compile Include="DataAnalysisGroupValue.cs" />
+    <Compile Include="Database\AccessDb.cs" />
+    <Compile Include="Database\AccessDbIcon.cs" />
+    <Compile Include="Database\DbType.cs" />
+    <Compile Include="Database\DbTypeAttribute.cs" />
+    <Compile Include="Database\IDbConfigControl.cs" />
+    <Compile Include="Database\Index.cs" />
+    <Compile Include="Database\IndexCollection.cs" />
+    <Compile Include="Database\SQLServerDbIcon.cs" />
+    <Compile Include="Database\TableCreateRuleOptions.cs" />
+    <Compile Include="DataAnalysisValue.cs" />
+    <Compile Include="DataSourceOptions.cs" />
+    <Compile Include="DateRange.cs" />
+    <Compile Include="DateRangeValue.cs" />
+    <Compile Include="DeviceCurveDataGroup.cs" />
+    <Compile Include="DeviceCurveDataOrder.cs" />
+    <Compile Include="DeviceCurveDataReader.cs" />
+    <Compile Include="DeviceDayDataGroup.cs" />
+    <Compile Include="DeviceDayDataOrder.cs" />
+    <Compile Include="DeviceDayDataReader.cs" />
+    <Compile Include="DeviceImplementAttribute.cs" />
+    <Compile Include="DeviceCurvePartDataReader.cs" />
+    <Compile Include="DeviceMonthDataGroup.cs" />
+    <Compile Include="DeviceMonthDataOrder.cs" />
+    <Compile Include="DeviceProperty.cs" />
+    <Compile Include="DeviceSearchs\AddressFilter.cs" />
+    <Compile Include="DeviceSearchs\AddressListItem.cs" />
+    <Compile Include="DeviceSearchs\ClassifyFilter.cs" />
+    <Compile Include="DeviceSearchs\CommonCustomClassifyFilter.cs" />
+    <Compile Include="DeviceSearchs\DeviceFilterCollection.cs" />
+    <Compile Include="DeviceSearchs\DeviceIdSearch.cs" />
+    <Compile Include="DeviceSearchs\DeviceListItemInfo.cs" />
+    <Compile Include="DeviceSearchs\DeviceListItemInfoCollection.cs" />
+    <Compile Include="DeviceSearchs\DeviceParentIdSearch.cs" />
+    <Compile Include="DeviceSearchs\DeviceSearchAccountConfig.cs" />
+    <Compile Include="DeviceSearchs\DeviceTypeFilter.cs" />
+    <Compile Include="DeviceSearchs\DeviceTypeListItem.cs" />
+    <Compile Include="DeviceSearchs\IDeviceFilterControl.cs" />
+    <Compile Include="DeviceSearchs\IDeviceListItem.cs" />
+    <Compile Include="DeviceSearchs\IdListItem.cs" />
+    <Compile Include="DeviceSearchs\LongitudeLatitudeFilter.cs" />
+    <Compile Include="DeviceSearchs\LongitudeLatitudeListItem.cs" />
+    <Compile Include="DeviceSearchs\NameListItem.cs" />
+    <Compile Include="DeviceSearchs\ParentAddressFilter.cs" />
+    <Compile Include="DeviceSearchs\ParentNameListItem.cs" />
+    <Compile Include="DeviceSearchs\SecondNodeFilter.cs" />
+    <Compile Include="DeviceMonthDataReader.cs" />
+    <Compile Include="DeviceSearchs\StateListItem.cs" />
+    <Compile Include="DeviceSearchs\StatusFilter.cs" />
+    <Compile Include="DeviceSearchs\NameFilter.cs" />
+    <Compile Include="Drives\ChannelCommunicationException.cs" />
+    <Compile Include="Drives\ChannelDriveBase_ex.cs" />
+    <Compile Include="Drives\ChannelDriveConnectMember.cs" />
+    <Compile Include="Drives\ChannelServiceMemberInfo.cs" />
+    <Compile Include="Drives\CommunicationException.cs" />
+    <Compile Include="Drives\CurveException.cs" />
+    <Compile Include="Drives\CurveMergeOptions.cs" />
+    <Compile Include="Drives\CurvePartValue.cs" />
+    <Compile Include="Drives\CurvePointOptions.cs" />
+    <Compile Include="Drives\CurveSplitOptions.cs" />
+    <Compile Include="Drives\CurveValue.cs" />
+    <Compile Include="Drives\DataCommunicationException.cs" />
+    <Compile Include="Drives\DLT645\DLT645Drive.cs" />
+    <Compile Include="Drives\DLT645\DLT645_1997ControlCodeOptions.cs" />
+    <Compile Include="Drives\DLT645\DLT645_1997Drive.cs" />
+    <Compile Include="Drives\DLT645\DLT645_2007ControlCodeOptions.cs" />
+    <Compile Include="Drives\DLT645\DLT645_2007Drive.cs" />
+    <Compile Include="Drives\DriveBase.cs" />
+    <Compile Include="Drives\DriveImplementAttribute.cs" />
+    <Compile Include="Drives\Electrics\EfficacyOptions.cs" />
+    <Compile Include="Drives\Electrics\EfficacyPhaseCurvePartValue.cs" />
+    <Compile Include="Drives\Electrics\EfficacyPhaseCurveValue.cs" />
+    <Compile Include="Drives\Electrics\EfficacyPhaseValue.cs" />
+    <Compile Include="Drives\Electrics\EfficacyPhaseValueCollection.cs" />
+    <Compile Include="Drives\Electrics\ICallCurrentAngleDriveImplement.cs" />
+    <Compile Include="Drives\Electrics\ICallCurrentDriveImplement.cs" />
+    <Compile Include="Drives\Electrics\ICallIndicatedDriveImplement.cs" />
+    <Compile Include="Drives\Electrics\ICallPowerDriveImplement.cs" />
+    <Compile Include="Drives\Electrics\ICallPowerFactorDriveImplement.cs" />
+    <Compile Include="Drives\Electrics\ICallVoltageAngleDriveImplement.cs" />
+    <Compile Include="Drives\Electrics\ICallVoltageDriveImplement.cs" />
+    <Compile Include="Drives\Electrics\PhaseCurvePartValue.cs" />
+    <Compile Include="Drives\Electrics\PhaseCurveValue.cs" />
+    <Compile Include="Drives\Electrics\PhaseOptions.cs" />
+    <Compile Include="Drives\Electrics\PhaseTotalValue.cs" />
+    <Compile Include="Drives\Electrics\PhaseValue.cs" />
+    <Compile Include="Drives\Electrics\PhaseZeroValue.cs" />
+    <Compile Include="Drives\Electrics\RatesConfig.cs" />
+    <Compile Include="Drives\Electrics\RatesEfficacyPhaseCurvePartValue.cs" />
+    <Compile Include="Drives\Electrics\RatesEfficacyPhaseCurveValue.cs" />
+    <Compile Include="Drives\Electrics\RatesEfficacyPhaseValue.cs" />
+    <Compile Include="Drives\Electrics\RatesEfficacyPhaseValueCollection.cs" />
+    <Compile Include="Drives\Electrics\RatesEfficacyValue.cs" />
+    <Compile Include="Drives\Electrics\RatesOptions.cs" />
+    <Compile Include="Drives\Electrics\RatesValue.cs" />
+    <Compile Include="Drives\Function.cs" />
+    <Compile Include="Drives\GDW130_376\DenistyOption.cs" />
+    <Compile Include="Drives\GDW130_376\GDW130_2004Drive.cs" />
+    <Compile Include="Drives\GDW130_376\GDW130_2005Drive.cs" />
+    <Compile Include="Drives\GDW130_376\GDW376_2009Drive.cs" />
+    <Compile Include="Drives\GDW130_376\GDWDriveBase.cs" />
+    <Compile Include="Drives\General\ICallHumidityDriveImplement.cs" />
+    <Compile Include="Drives\General\ICallTemperatureDriveImplement.cs" />
+    <Compile Include="Drives\IAddressDriveImplement.cs" />
+    <Compile Include="Drives\ICallClockDriveImplement.cs" />
+    <Compile Include="Drives\IDrive.cs" />
+    <Compile Include="Drives\IDriveCollection.cs" />
+    <Compile Include="Drives\IDriveImplement.cs" />
+    <Compile Include="Drives\IIntAddressDriveImplement.cs" />
+    <Compile Include="Drives\ILongAddressDriveImplement.cs" />
+    <Compile Include="Drives\IMeasureDriveImplement.cs" />
+    <Compile Include="Drives\IOnlineDriveImplement.cs" />
+    <Compile Include="Drives\IRTUCallClockDriveImplement.cs" />
+    <Compile Include="Drives\IRTUMeasureDriveImplement.cs" />
+    <Compile Include="Drives\IRTUSendReciveStateImplement.cs" />
+    <Compile Include="Drives\IRTUSetClockDriveImplement.cs" />
+    <Compile Include="Drives\ISendDataDriveImplement.cs" />
+    <Compile Include="Drives\ISendReciveStateImplement.cs" />
+    <Compile Include="Drives\ISetClockDriveImplement.cs" />
+    <Compile Include="Drives\ISwitchDriveImplement.cs" />
+    <Compile Include="Drives\MasterStandbyChannelDriveBase.cs" />
+    <Compile Include="Drives\MultiMasterChannelDriveBase.cs" />
+    <Compile Include="Drives\OfflineCommunicationException.cs" />
+    <Compile Include="Drives\ReceiveDataCommunicationException.cs" />
+    <Compile Include="Drives\ReceiveTimeoutCommunicationException.cs" />
+    <Compile Include="Drives\SendDataCommunicationException.cs" />
+    <Compile Include="Drives\SerialExtensions.cs" />
+    <Compile Include="Drives\SerialNormallyClosedDrive.cs" />
+    <Compile Include="Drives\SocketCommunicationException.cs" />
+    <Compile Include="Drives\TcpNormallyConnectServer.cs" />
+    <Compile Include="Exam\ExamDao\DevicesDao.cs" />
+    <Compile Include="Exam\ExamDao\DevicesTypeDao.cs" />
+    <Compile Include="Exam\ExamDao\ExamItemDao.cs" />
+    <Compile Include="Exam\ExamDao\ExamRecordDao.cs" />
+    <Compile Include="Exam\ExamDao\ExamTypeDao.cs" />
+    <Compile Include="Exam\ExamDao\FactoryDao.cs" />
+    <Compile Include="Exam\ExamDao\RecordDao.cs" />
+    <Compile Include="Exam\ExamServiceImpl\DevicesServiceImpl.cs" />
+    <Compile Include="Exam\ExamServiceImpl\DevicesTypeServiceImpl.cs" />
+    <Compile Include="Exam\ExamServiceImpl\ExamCaseServiceImpl.cs" />
+    <Compile Include="Exam\ExamServiceImpl\ExamItemServiceImpl.cs" />
+    <Compile Include="Exam\ExamServiceImpl\ExamRecordServiceImpl.cs" />
+    <Compile Include="Exam\ExamServiceImpl\ExamTypeServiceImpl.cs" />
+    <Compile Include="Exam\ExamServiceImpl\FactoryServiceImpl.cs" />
+    <Compile Include="Exam\ExamServiceImpl\RecordServiceImpl.cs" />
+    <Compile Include="Exam\ExamService\DevicesService.cs" />
+    <Compile Include="Exam\ExamService\ExamCaseService.cs" />
+    <Compile Include="Exam\ExamService\ExamItemService.cs" />
+    <Compile Include="Exam\ExamService\ExamTypeService.cs" />
+    <Compile Include="Exam\Exam\Devices.cs" />
+    <Compile Include="Exam\Exam\DevicesType.cs" />
+    <Compile Include="Exam\Exam\ExamItem.cs" />
+    <Compile Include="Exam\Exam\ExamRecord.cs" />
+    <Compile Include="Exam\Exam\ExamRecordValue.cs" />
+    <Compile Include="Exam\Exam\ExamRecordValueDevice.cs" />
+    <Compile Include="Exam\Exam\ExamType.cs" />
+    <Compile Include="Exam\Exam\Factory.cs" />
+    <Compile Include="Exam\Exam\Record.cs" />
+    <Compile Include="Exam\Exam\RecordValue.cs" />
+    <Compile Include="Exam\Exam\TaskObject.cs" />
+    <Compile Include="Exam\Exam\TaskRecord.cs" />
+    <Compile Include="IAccount.cs" />
+    <Compile Include="IAccountConfig.cs" />
+    <Compile Include="IClassifyCollection.cs" />
+    <Compile Include="IDeviceImplement.cs" />
+    <Compile Include="IIcon.cs" />
+    <Compile Include="IReadOnlyCollection.cs" />
+    <Compile Include="IRole.cs" />
+    <Compile Include="ISecuritySolution.cs" />
+    <Compile Include="ISystemConfig.cs" />
+    <Compile Include="Logs\DeviceFilter.cs" />
+    <Compile Include="Logs\DeviceLog.cs" />
+    <Compile Include="Logs\ILogFilter.cs" />
+    <Compile Include="Logs\Log.cs" />
+    <Compile Include="Logs\LogFilterCollection.cs" />
+    <Compile Include="Logs\LogSearch.cs" />
+    <Compile Include="Logs\LogType.cs" />
+    <Compile Include="Logs\LogTypeAttribute.cs" />
+    <Compile Include="Logs\LogTypeFilter.cs" />
+    <Compile Include="Logs\LogTypeSort.cs" />
+    <Compile Include="Logs\NonexistentLog.cs" />
+    <Compile Include="NonexistentDevice.cs" />
+    <Compile Include="OperatingFile.cs" />
+    <Compile Include="Organization.cs" />
+    <Compile Include="ParamsAndInfosProcessing\InformationsConversion.cs" />
+    <Compile Include="ParamsAndInfosProcessing\ParametersConversion.cs" />
+    <Compile Include="ParamsAndInfosProcessing\ParametersEntity.cs" />
+    <Compile Include="ReadOnlyCollection.cs" />
+    <Compile Include="ControlAttribute.cs" />
+    <Compile Include="Database\Column.cs" />
+    <Compile Include="Database\ColumnAttribute.cs" />
+    <Compile Include="Database\ColumnCollection.cs" />
+    <Compile Include="Database\DataTypeOptions.cs" />
+    <Compile Include="Database\DbConnection.cs" />
+    <Compile Include="Database\IDb.cs" />
+    <Compile Include="Database\SQLServerDb.cs" />
+    <Compile Include="Database\Table.cs" />
+    <Compile Include="Database\TableAttribute.cs" />
+    <Compile Include="Database\TableCollection.cs" />
+    <Compile Include="Device.cs" />
+    <Compile Include="DeviceCollection.cs" />
+    <Compile Include="DeviceSearchs\DeviceFilterType.cs" />
+    <Compile Include="DeviceSearchs\DeviceSearch.cs" />
+    <Compile Include="DeviceSearchs\IDeviceFilter.cs" />
+    <Compile Include="DeviceSearchs\IDeviceOrder.cs" />
+    <Compile Include="DeviceSearchs\IdFilter.cs" />
+    <Compile Include="DeviceSearchs\IdOrder.cs" />
+    <Compile Include="DeviceSearchs\OrdinalNumberOrder.cs" />
+    <Compile Include="DeviceSearchs\ParentIdFilter.cs" />
+    <Compile Include="DeviceStateOptions.cs" />
+    <Compile Include="DeviceType.cs" />
+    <Compile Include="DeviceTypeAttribute.cs" />
+    <Compile Include="DeviceTypeSort.cs" />
+    <Compile Include="Function.cs" />
+    <Compile Include="IControl.cs" />
+    <Compile Include="IDeviceCollection.cs" />
+    <Compile Include="IDeviceTypeImage.cs" />
+    <Compile Include="IPopedom.cs" />
+    <Compile Include="IProtocol.cs" />
+    <Compile Include="IUseAccount.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RoadPosition.cs" />
+    <Compile Include="Searchs\FilterAppliesOptions.cs" />
+    <Compile Include="Searchs\FilterCollection.cs" />
+    <Compile Include="Searchs\FilterLogicOperatorOptions.cs" />
+    <Compile Include="Searchs\FilterType.cs" />
+    <Compile Include="Searchs\IFilter.cs" />
+    <Compile Include="Searchs\IFilterControl.cs" />
+    <Compile Include="Searchs\IListItem.cs" />
+    <Compile Include="Searchs\IOrder.cs" />
+    <Compile Include="Searchs\ISearch.cs" />
+    <Compile Include="Searchs\ListItemInfo.cs" />
+    <Compile Include="Searchs\ListItemInfoCollection.cs" />
+    <Compile Include="Searchs\SearchBase.cs" />
+    <Compile Include="Searchs\SearchOrderColumn.cs" />
+    <Compile Include="Searchs\SearchOrderInfo.cs" />
+    <Compile Include="Searchs\SearchOrderInfoCollection.cs" />
+    <Compile Include="Searchs\SearchSelectColumn.cs" />
+    <Compile Include="Searchs\SearchTable.cs" />
+    <Compile Include="SecuritySolution.cs" />
+    <Compile Include="SystemMessageTypeOptions.cs" />
+    <Compile Include="Tables\AccountConfig.cs" />
+    <Compile Include="Tables\Classify.cs" />
+    <Compile Include="Tables\ClassifyDevice.cs" />
+    <Compile Include="Tables\ClassifyDeviceAll.cs" />
+    <Compile Include="Tables\ClassifyOwner.cs" />
+    <Compile Include="Tables\Device.cs" />
+    <Compile Include="Tables\DevicePropertyBytes.cs" />
+    <Compile Include="Tables\DevicePropertyDecimal.cs" />
+    <Compile Include="Tables\DevicePropertyInt.cs" />
+    <Compile Include="Tables\DevicePropertyLong.cs" />
+    <Compile Include="Tables\DevicePropertyString.cs" />
+    <Compile Include="Tables\DevicePropertyText.cs" />
+    <Compile Include="Tables\Log.cs" />
+    <Compile Include="Tables\LogDecimal.cs" />
+    <Compile Include="Tables\LogInt.cs" />
+    <Compile Include="Tables\LogLong.cs" />
+    <Compile Include="Tables\LogString.cs" />
+    <Compile Include="Tables\SystemConfig.cs" />
+    <Compile Include="Tables\TaskConfig.cs" />
+    <Compile Include="Tables\TaskRunLog.cs" />
+    <Compile Include="Tables\TaskExceptionLog.cs" />
+    <Compile Include="Tables\TaskGroup.cs" />
+    <Compile Include="Tables\TaskLog.cs" />
+    <Compile Include="Tasks\Hour1TaskPeriod.cs" />
+    <Compile Include="Tasks\ITaskConfigControl.cs" />
+    <Compile Include="Tasks\ITaskLogFilter.cs" />
+    <Compile Include="Tasks\ITaskPeriodConfigControl.cs" />
+    <Compile Include="Tasks\Minute30TaskPeriod.cs" />
+    <Compile Include="Tasks\Task.cs" />
+    <Compile Include="Tasks\TaskExceptionInfo.cs" />
+    <Compile Include="Tasks\TaskGroup.cs" />
+    <Compile Include="Tasks\TaskConfig.cs" />
+    <Compile Include="Tasks\TaskLog.cs" />
+    <Compile Include="Tasks\TaskLogFilterCollection.cs" />
+    <Compile Include="Tasks\TaskLogSearch.cs" />
+    <Compile Include="Tasks\TaskPeriod.cs" />
+    <Compile Include="Tasks\TaskPeriodType.cs" />
+    <Compile Include="Tasks\TaskPeriodTypeAttribute.cs" />
+    <Compile Include="Tasks\ContinuousTaskPeriod.cs" />
+    <Compile Include="Tasks\CurvePointTaskPeriod.cs" />
+    <Compile Include="Tasks\DayTaskPeriod.cs" />
+    <Compile Include="Tasks\IntervalTaskPeriod.cs" />
+    <Compile Include="Tasks\Minute15TaskPeriod.cs" />
+    <Compile Include="Tasks\MonthTaskPeriod.cs" />
+    <Compile Include="Tasks\PredecessorTaskPeriod.cs" />
+    <Compile Include="Tasks\TaskStateOptions.cs" />
+    <Compile Include="Tasks\TaskType.cs" />
+    <Compile Include="Tasks\TaskTypeAttribute.cs" />
+    <Compile Include="visa32.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\channelservice16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\devicephoto.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\channelservice32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\device16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\device32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CommonClassifyItem16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SQLServer16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SQLServer32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CommonClassify16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CommonClassify32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CommonClassifyItem32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CommonClassifyRoot32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CommonClassifyRoot16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Classify32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Classify16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Access16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Access32.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

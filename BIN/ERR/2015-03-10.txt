@@ -1,0 +1,16 @@
+[2015-03-10 10:33:45]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体0309\AC.BJQZJGPNEW\MainForm\Channel.cs:行号 4455]
+[2015-03-10 10:34:29]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体0309\AC.BJQZJGPNEW\MainForm\Channel.cs:行号 4455]
+[2015-03-10 10:39:13]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed)]
+[2015-03-10 10:39:18]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed)]
+[2015-03-10 10:39:46]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed)]

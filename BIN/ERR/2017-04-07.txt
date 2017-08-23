@@ -1,0 +1,32 @@
+[2017-04-07 16:29:59]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:30:04]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:30:10]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:30:17]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:30:23]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:30:29]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:30:35]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:30:41]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:33:06]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:33:12]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:33:18]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:33:24]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:33:30]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:33:36]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:33:43]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]
+[2017-04-07 16:33:49]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 MainForm.ExecALLThread.exec(ExecData ed) 位置 c:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\Channel.cs:行号 4464]

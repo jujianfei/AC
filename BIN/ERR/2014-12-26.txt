@@ -1,0 +1,12 @@
+[2014-12-26 10:51:10]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.FormatException: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。
+   在 System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   在 System.String.Format(IFormatProvider provider, String format, Object[] args)
+   在 System.String.Format(String format, Object arg0)
+   在 MainForm.DSPOutputValueCls.WCBSJValueToOutput(String cmdret, Int32 _index)
+   在 MainForm.ExecALLThread.exec(ExecData ed)]
+[2014-12-26 11:00:04]：[Class：ExecThread],[Function：exec],[Info：],[Data：],[Err：System.FormatException: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。
+   在 System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   在 System.String.Format(IFormatProvider provider, String format, Object[] args)
+   在 System.String.Format(String format, Object arg0)
+   在 MainForm.DSPOutputValueCls.WCBSJValueToOutput(String cmdret, Int32 _index)
+   在 MainForm.ExecALLThread.exec(ExecData ed)]

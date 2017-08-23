@@ -1,0 +1,35 @@
+D:\new AMS\AMSBin\AMS.Monitoring.dll
+D:\new AMS\AMSBin\AMS.Monitoring.pdb
+D:\new AMS\AMS.Monitoring\obj\Debug\ResolveAssemblyReference.cache
+D:\new AMS\AMS.Monitoring\obj\Debug\AMS.Monitoring.Properties.Resources.resources
+D:\new AMS\AMS.Monitoring\obj\Debug\GenerateResource.read.1.tlog
+D:\new AMS\AMS.Monitoring\obj\Debug\GenerateResource.write.1.tlog
+D:\new AMS\AMS.Monitoring\obj\Debug\AMS.Monitoring.dll
+D:\new AMS\AMS.Monitoring\obj\Debug\AMS.Monitoring.pdb
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.dll
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.pdb
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\AMS.Monitoring.Properties.Resources.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\GenerateResource.read.1.tlog
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\GenerateResource.write.1.tlog
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\AMS.Monitoring.dll
+D:\Repositories\JK-LDJK\AMS.Monitoring\obj\Debug\AMS.Monitoring.pdb
+E:\AMS\AMS\AMSBin\AMS.Monitoring.dll
+E:\AMS\AMS\AMSBin\AMS.Monitoring.pdb
+E:\AMS\AMS\AMS.Monitoring\obj\Debug\ResolveAssemblyReference.cache
+E:\AMS\AMS\AMS.Monitoring\obj\Debug\AMS.Monitoring.Database.AccessDbConfig.resources
+E:\AMS\AMS\AMS.Monitoring\obj\Debug\AMS.Monitoring.Properties.Resources.resources
+E:\AMS\AMS\AMS.Monitoring\obj\Debug\GenerateResource.read.1.tlog
+E:\AMS\AMS\AMS.Monitoring\obj\Debug\GenerateResource.write.1.tlog
+E:\AMS\AMS\AMS.Monitoring\obj\Debug\AMS.Monitoring.dll
+E:\AMS\AMS\AMS.Monitoring\obj\Debug\AMS.Monitoring.pdb
+D:\Project\CQRM\AMS.Monitoring\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\CQRM\AMS.Monitoring\obj\Debug\AMS.Monitoring.Database.AccessDbConfig.resources
+D:\Project\CQRM\AMS.Monitoring\obj\Debug\AMS.Monitoring.Properties.Resources.resources
+D:\Project\CQRM\AMS.Monitoring\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\CQRM\AMS.Monitoring\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\CQRM\AMS.Monitoring\obj\Debug\AMS.Monitoring.dll
+D:\Project\CQRM\AMS.Monitoring\obj\Debug\AMS.Monitoring.pdb
+D:\Project\CQRM\AMSBin\AMS.Monitoring.dll
+D:\Project\CQRM\AMSBin\AMS.Monitoring.pdb
+D:\Project\CQRM\AMSBin\AMS.Monitoring.XML

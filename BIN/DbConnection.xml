@@ -1,0 +1,6 @@
+<DbConnectionConfig>
+  <Type>AC.Base.Database.AccessDb</Type>
+  <AccessDb>
+    <FileName>ams.mdb</FileName>
+  </AccessDb>
+</DbConnectionConfig>

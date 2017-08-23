@@ -1,0 +1,307 @@
+D:\Project\AC\AMSBin\AC.Base.Forms.dll
+D:\Project\AC\AMSBin\AC.Base.Forms.pdb
+D:\Project\AC\AMSBin\AC.Base.Forms.xml
+D:\Project\AC\BIN\AC.Base.Forms.dll
+D:\Project\AC\BIN\AC.Base.Forms.pdb
+D:\Project\AC\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.CQRM\BIN\AC.Base.Forms.dll
+D:\Project\AC.CQRM\BIN\AC.Base.Forms.pdb
+D:\Project\AC.CQRM\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.CQRM\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.CQRM\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.BJHH\BIN\AC.Base.Forms.dll
+D:\Project\AC.BJHH\BIN\AC.Base.Forms.pdb
+D:\Project\AC.BJHH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJHH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.BJHH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.JS230M\BIN\AC.Base.Forms.dll
+D:\Project\AC.JS230M\BIN\AC.Base.Forms.pdb
+D:\Project\AC.JS230M\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.JS230M\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.JS230M\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.JS230M - 副本\BIN\AC.Base.Forms.dll
+D:\Project\AC.JS230M - 副本\BIN\AC.Base.Forms.pdb
+D:\Project\AC.JS230M - 副本\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.JS230M - 副本\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.JS230M - 副本\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.BJWGL\BIN\AC.Base.Forms.dll
+D:\Project\AC.BJWGL\BIN\AC.Base.Forms.pdb
+D:\Project\AC.BJWGL\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJWGL\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.BJWGL\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.BJWGL - 副本\BIN\AC.Base.Forms.dll
+D:\Project\AC.BJWGL - 副本\BIN\AC.Base.Forms.pdb
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.BJGH\BIN\AC.Base.Forms.dll
+D:\Project\AC.BJGH\BIN\AC.Base.Forms.pdb
+D:\Project\AC.BJGH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\AC.BJGH\BIN\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\AC.BJGH\BIN\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\BIN\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\BIN\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\BIN\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\BIN\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\BIN\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\BIN\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\BIN\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\BIN\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\BIN\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\BIN\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\BIN\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\BIN\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\BIN\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\BIN\AC.Base.Forms.pdb
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\BIN\AC.Base.Forms.dll
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\BIN\AC.Base.Forms.pdb
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.BJMKHH\BIN\AC.Base.Forms.dll
+D:\Project\AC.BJMKHH\BIN\AC.Base.Forms.pdb
+D:\Project\AC.BJMKHH\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJMKHH\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.BJMKHH\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.BJHHX\BIN\AC.Base.Forms.dll
+D:\Project\AC.BJHHX\BIN\AC.Base.Forms.pdb
+D:\Project\AC.BJHHX\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJHHX\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.BJHHX\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.BJHLHT\BIN\AC.Base.Forms.dll
+D:\Project\AC.BJHLHT\BIN\AC.Base.Forms.pdb
+D:\Project\AC.BJHLHT\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJHLHT\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.BJHLHT\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.CQGPRS\BIN\AC.Base.Forms.dll
+D:\Project\AC.CQGPRS\BIN\AC.Base.Forms.pdb
+D:\Project\AC.CQGPRS\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.CQGPRS\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.CQGPRS\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.SCCB\BIN\AC.Base.Forms.dll
+D:\Project\AC.SCCB\BIN\AC.Base.Forms.pdb
+D:\Project\AC.SCCB\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.SCCB\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.SCCB\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.JSGS\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.JSGS\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\AC.JSGS\BIN\AC.Base.Forms.dll
+D:\AC.JSGS\BIN\AC.Base.Forms.pdb
+D:\AC.JSGS\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\AC.JSGS\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\AC.JSGS\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.JSGS\BIN\AC.Base.Forms.dll
+D:\Project\AC.JSGS\BIN\AC.Base.Forms.pdb
+D:\Project\AC.JSGS\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.JSGS\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.JSGS\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.DE\BIN\AC.Base.Forms.dll
+D:\Project\AC.DE\BIN\AC.Base.Forms.pdb
+D:\Project\AC.DE\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.DE\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.DE\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\Project\AC.BJQZJ\BIN\AC.Base.Forms.dll
+D:\Project\AC.BJQZJ\BIN\AC.Base.Forms.pdb
+D:\Project\AC.BJQZJ\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\Project\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\gp\AC.BJQZJ\BIN\AC.Base.Forms.dll
+D:\gp\AC.BJQZJ\BIN\AC.Base.Forms.pdb
+D:\gp\AC.BJQZJ\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\gp\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\gp\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+E:\高鹏\功率源\AC.BJQZJ\BIN\AC.Base.Forms.dll
+E:\高鹏\功率源\AC.BJQZJ\BIN\AC.Base.Forms.pdb
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+E:\AC.BJQZJ\BIN\AC.Base.Forms.dll
+E:\AC.BJQZJ\BIN\AC.Base.Forms.pdb
+E:\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+E:\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+E:\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\高鹏\AC.BJQZJ\BIN\AC.Base.Forms.dll
+D:\高鹏\AC.BJQZJ\BIN\AC.Base.Forms.pdb
+D:\高鹏\AC.BJQZJ\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\高鹏\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\高鹏\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\BIN\AC.Base.Forms.dll
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\BIN\AC.Base.Forms.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJ\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJ\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\AC.Base.Forms.dll
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\AC.Base.Forms.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGP\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGP\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+D:\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.dll
+D:\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.pdb
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.dll
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.pdb
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.dll
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.pdb
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\BIN\AC.Base.Forms.dll
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\BIN\AC.Base.Forms.pdb
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms\obj\Debug\ResolveAssemblyReference.cache
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\BIN\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\BIN\AC.Base.Forms.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.dll
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.pdb
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.dll
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.dll
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.dll
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\BIN\AC.Base.Forms.dll
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\BIN\AC.Base.Forms.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\BIN\AC.Base.Forms.dll
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\BIN\AC.Base.Forms.pdb
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms\obj\Debug\AC.Base.Forms.csprojResolveAssemblyReference.cache
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms\obj\Debug\AC.Base.Forms.dll
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms\obj\Debug\AC.Base.Forms.pdb

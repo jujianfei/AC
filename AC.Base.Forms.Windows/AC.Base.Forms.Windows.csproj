@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CF583F16-2539-49E7-8676-191C8761974F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AC.Base.Forms.Windows</RootNamespace>
+    <AssemblyName>AC.Base.Forms.Windows</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\BIN\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.InteropServices.APIs, Version=1.0.1336.34693, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL\System.Runtime.InteropServices.APIs.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.TreeListView, Version=1.0.1336.34694, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL\System.Windows.Forms.TreeListView.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassifyPluginView.cs" />
+    <Compile Include="ClassifyTree.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CommonCustomClassGlobalPlugin.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ControlView.cs" />
+    <Compile Include="Database\AccessDbConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Database\AccessDbConfig.Designer.cs">
+      <DependentUpon>AccessDbConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\DbSelection.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Database\DbSelectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database\frmCreateSQLServerOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database\frmCreateSQLServerOptions.Designer.cs">
+      <DependentUpon>frmCreateSQLServerOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\SQLServerDbConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Database\SQLServerDbConfig.Designer.cs">
+      <DependentUpon>SQLServerDbConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentManageGlobalMenuplugin.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DeviceFilter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DeviceFilterAdvanced.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DeviceFilterBasic.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DeviceFilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeviceList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DevicePluginView.cs" />
+    <Compile Include="DeviceSearchs\AddressFilter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DeviceSearchs\CommonCustomClassifyFilter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DeviceSearchs\DeviceTypeFilter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DeviceSearchs\NameFilter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GlobalPluginView.cs" />
+    <Compile Include="Horizontal.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IControlView.cs" />
+    <Compile Include="IStatusBarItem.cs" />
+    <Compile Include="IToolbar.cs" />
+    <Compile Include="IToolbarItem.cs" />
+    <Compile Include="IViewCollection.cs" />
+    <Compile Include="Manages\ClassifySetting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manages\ClassifySetting.Designer.cs">
+      <DependentUpon>ClassifySetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manages\CommonCustomClassifyManage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manages\CommonCustomClassifyManage.Designer.cs">
+      <DependentUpon>CommonCustomClassifyManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manages\CommonCustomClassifyManageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manages\CommonCustomClassifyManageForm.Designer.cs">
+      <DependentUpon>CommonCustomClassifyManageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manages\CommonCustomClassifyManageTabPage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Manages\Department.cs" />
+    <Compile Include="Manages\DepartmentManage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manages\DepartmentManageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manages\DepartmentManageIcon.cs" />
+    <Compile Include="Manages\RoadClassifyManageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manages\RoadClassifyManageForm.Designer.cs">
+      <DependentUpon>RoadClassifyManageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manages\OrganizationConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manages\OrganizationConfig.Designer.cs">
+      <DependentUpon>OrganizationConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manages\OrganizationConfigIcon.cs" />
+    <Compile Include="Manages\DepartmentConfigIcon.cs" />
+    <Compile Include="Manages\RoadMananger.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manages\RoadMananger.Designer.cs">
+      <DependentUpon>RoadMananger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperationPluginView.cs" />
+    <Compile Include="Pagination.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Parameters\Day.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Parameters\Month.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Plugins\CommonCustomClassifyListControlView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Plugins\CommonCustomClassifyMenuPlugin.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Plugins\CommonCustomClassifyMenuPluginCheck.cs" />
+    <Compile Include="Plugins\CreateDeviceImage.cs" />
+    <Compile Include="Plugins\DeviceListControlView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Plugins\DeviceListGlobalMenuPlugin.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Plugins\DeviceListImage.cs" />
+    <Compile Include="Plugins\DeviceSearchControlView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Plugins\DeviceSearchGlobalMenuPlugin.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Plugins\DeviceSearchSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plugins\DeviceSearchSettingForm.Designer.cs">
+      <DependentUpon>DeviceSearchSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Plugins\SelectDeviceTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plugins\SelectDeviceTypeForm.Designer.cs">
+      <DependentUpon>SelectDeviceTypeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Plugins\SelectDeviceTypeNonSortForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plugins\SelectDeviceTypeNonSortForm.Designer.cs">
+      <DependentUpon>SelectDeviceTypeNonSortForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PluginViewBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="StatusBarItemType.cs" />
+    <Compile Include="StatusBarItemTypeAttribute.cs" />
+    <Compile Include="Tasks\ContinuousTaskPeriodConfig.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tasks\CurvePointTaskPeriodConfig.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tasks\DayTaskPeriodConfig.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tasks\Hour1TaskPeriodConfig.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tasks\IntervalTaskPeriodConfig.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tasks\Minute15TaskPeriodConfig.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tasks\Minute30TaskPeriodConfig.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tasks\MonthTaskPeriodConfig.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tasks\PredecessorTaskPeriodConfig.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ToolbarItemType.cs" />
+    <Compile Include="ToolbarItemTypeAttribute.cs" />
+    <Compile Include="ToolbarType.cs" />
+    <Compile Include="ToolbarTypeAttribute.cs" />
+    <Compile Include="ViewBase.cs" />
+    <Compile Include="ViewDockOptions.cs" />
+    <Compile Include="WindowsFormApplicationClass.cs" />
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Database\AccessDbConfig.resx">
+      <DependentUpon>AccessDbConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Database\frmCreateSQLServerOptions.resx">
+      <DependentUpon>frmCreateSQLServerOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Database\SQLServerDbConfig.resx">
+      <DependentUpon>SQLServerDbConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manages\ClassifySetting.resx">
+      <DependentUpon>ClassifySetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manages\CommonCustomClassifyManage.resx">
+      <DependentUpon>CommonCustomClassifyManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manages\CommonCustomClassifyManageForm.resx">
+      <DependentUpon>CommonCustomClassifyManageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manages\DepartmentManageForm.resx">
+      <DependentUpon>DepartmentManageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manages\OrganizationConfig.resx">
+      <DependentUpon>OrganizationConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manages\RoadClassifyManageForm.resx">
+      <DependentUpon>RoadClassifyManageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manages\RoadMananger.resx">
+      <DependentUpon>RoadMananger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plugins\DeviceSearchControlView.resx">
+      <DependentUpon>DeviceSearchControlView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plugins\DeviceSearchSettingForm.resx">
+      <DependentUpon>DeviceSearchSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plugins\SelectDeviceTypeForm.resx">
+      <DependentUpon>SelectDeviceTypeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plugins\SelectDeviceTypeNonSortForm.resx">
+      <DependentUpon>SelectDeviceTypeNonSortForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChannelServiceCreate32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\channelservice16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\channelserviceadd.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\channelserviceupdate.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteBlack.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FolderClosed.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FolderNew.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FolderOpen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeviceCreate16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeviceCreate32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CommonClassify16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CommonClassifyRoot16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CommonClassifyItem16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Transparent.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeviceSearch16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Setting16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BrowseBack16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BrowseForward16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Filter16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Filter32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FilterAdd16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PageDown16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PageUp16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reset16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FilterInfo16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FilterAdvanced16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FilterAdvancedClear16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FilterBasic16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrowhead_Down.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrowhead_Left.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrowhead_Right.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrowhead_Up.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SelectAll.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SelectClear.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SelectReverse.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Organization32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Organization16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Department16.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Department32.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullets-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrowhead_Down1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SelectAll1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SelectReverse1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrowhead_Down2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AC.Base.Forms\AC.Base.Forms.csproj">
+      <Project>{2CD7A887-7CF0-43BE-9877-611FE2978802}</Project>
+      <Name>AC.Base.Forms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AC.Base\AC.Base.csproj">
+      <Project>{A3D9DA48-A92F-498E-B073-D9361324A3D4}</Project>
+      <Name>AC.Base</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

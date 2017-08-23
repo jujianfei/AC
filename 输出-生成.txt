@@ -1,0 +1,33 @@
+﻿------ 已启动全部重新生成: 项目: AC.Base, 配置: Debug Any CPU ------
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base\Exam\ExamDao\ExamRecordDao.cs(153,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+
+编译完成 -- 0 个错误，1 个警告
+  AC.Base -> C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\AC.Base.dll
+------ 已启动全部重新生成: 项目: AC.Base.Forms, 配置: Debug Any CPU ------
+  AC.Base.Forms -> C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\AC.Base.Forms.dll
+------ 已启动全部重新生成: 项目: AC.Base.Forms.Windows, 配置: Debug Any CPU ------
+  AC.Base.Forms.Windows -> C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\AC.Base.Forms.Windows.dll
+------ 已启动全部重新生成: 项目: MainForm, 配置: Debug x86 ------
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\frmMain.cs(146,34): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\frmMain.cs(189,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\frmMain.cs(971,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\frmMain.cs(1623,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\frmMain.cs(1983,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\frmMain.cs(2332,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\frmMain.cs(2568,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\frmMain.cs(2595,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\frmMain.cs(3115,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\BTGNcls.cs(2092,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\PMShowcls.cs(61,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\PMShowcls.cs(77,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\PMShowcls.cs(111,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\PMShowcls.cs(206,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\Channel.cs(480,34): 警告 CS0219: 变量“_args”已赋值，但其值从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\Channel.cs(534,34): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\Channel.cs(589,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\Channel.cs(1275,30): 警告 CS0168: 声明了变量“ex”，但从未使用过
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\frmMain.cs(214,22): 警告 CS0414: 字段“MainForm.frmMain.mHanle”已被赋值，但从未使用过它的值
+
+编译完成 -- 0 个错误，19 个警告
+  MainForm -> C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\iservice.exe
+========== 全部重新生成: 成功 4 个，失败 0 个，跳过 0 个 ==========

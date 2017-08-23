@@ -1,0 +1,1346 @@
+D:\Project\AC\AMSBin\AC.Base.Forms.Windows.dll
+D:\Project\AC\AMSBin\AC.Base.Forms.Windows.pdb
+D:\Project\AC\AMSBin\AC.Base.Forms.Windows.xml
+D:\Project\AC\AMSBin\AC.Base.Forms.Windows.dll.config
+D:\Project\AC\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.CQRM\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.CQRM\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.CQRM\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJHH\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJHH\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.JS230M\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.JS230M\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.JS230M\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.JS230M - 副本\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.JS230M - 副本\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.JS230M - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJWGL\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJWGL\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJWGL\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJWGL - 副本\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJWGL - 副本\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJWGL - 副本\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJGH\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJGH\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\AC.BJGH\BIN\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\AC.BJGH\BIN\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\BIN\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\BIN\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-13-15-49\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\BIN\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\BIN\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-13-17-09\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\BIN\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\BIN\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-14-13-21\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\BIN\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\BIN\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-14-16-56\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\BIN\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\BIN\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\BIN\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\BIN\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-15-13-51\测试模块\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\BIN\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\BIN\AC.Base.Forms.Windows.pdb
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+H:\用电设备检测\trunk\代码\2013-06-21-12-04\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\BIN\AC.Base.Forms.Windows.dll
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\likang\项目\用电采集设备\SVN\trunk\代码\当前\用电设备最新代码\AC.BJGH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJMKHH\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJMKHH\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJMKHH\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJHHX\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJHHX\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJHHX\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJHLHT\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJHLHT\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJHLHT\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.CQGPRS\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.CQGPRS\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.CQGPRS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.SCCB\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.SCCB\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.SCCB\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.JSGS\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.JSGS\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\AC.JSGS\BIN\AC.Base.Forms.Windows.dll
+D:\AC.JSGS\BIN\AC.Base.Forms.Windows.pdb
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.JSGS\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.JSGS\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.JSGS\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.DE\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.DE\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.DE\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJQZJ\BIN\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJQZJ\BIN\AC.Base.Forms.Windows.pdb
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\Project\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\gp\AC.BJQZJ\BIN\AC.Base.Forms.Windows.dll
+D:\gp\AC.BJQZJ\BIN\AC.Base.Forms.Windows.pdb
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\gp\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+E:\高鹏\功率源\AC.BJQZJ\BIN\AC.Base.Forms.Windows.dll
+E:\高鹏\功率源\AC.BJQZJ\BIN\AC.Base.Forms.Windows.pdb
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+E:\高鹏\功率源\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+E:\AC.BJQZJ\BIN\AC.Base.Forms.Windows.dll
+E:\AC.BJQZJ\BIN\AC.Base.Forms.Windows.pdb
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+E:\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\高鹏\AC.BJQZJ\BIN\AC.Base.Forms.Windows.dll
+D:\高鹏\AC.BJQZJ\BIN\AC.Base.Forms.Windows.pdb
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\高鹏\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\BIN\AC.Base.Forms.Windows.dll
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJ\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJ\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\AC.Base.Forms.Windows.dll
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGP\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGP\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+D:\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.dll
+D:\北京新台体最新版\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.pdb
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+D:\北京新台体最新版\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.dll
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.pdb
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.dll
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\AC.Base.Forms.Windows.pdb
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\BIN\AC.Base.Forms.Windows.dll
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\BIN\AC.Base.Forms.Windows.pdb
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\BIN\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.Windows.dll
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.Windows.dll
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.Windows.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.Windows.dll
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.Windows.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.Windows.dll
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\BIN\AC.Base.Forms.Windows.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\BIN\AC.Base.Forms.Windows.dll
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\BIN\AC.Base.Forms.Windows.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\BIN\AC.Base.Forms.Windows.dll
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\BIN\AC.Base.Forms.Windows.pdb
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csprojResolveAssemblyReference.cache
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.AccessDbConfig.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Database.SQLServerDbConfig.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.ClassifySetting.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.DepartmentManageForm.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.OrganizationConfig.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadClassifyManageForm.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Manages.RoadMananger.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchControlView.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.Properties.Resources.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.csproj.GenerateResource.Cache
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.dll
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\AC.Base.Forms.Windows\obj\Debug\AC.Base.Forms.Windows.pdb

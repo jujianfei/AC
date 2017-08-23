@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2CD7A887-7CF0-43BE-9877-611FE2978802}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AC.Base.Forms</RootNamespace>
+    <AssemblyName>AC.Base.Forms</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\BIN\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassifyPluginType.cs" />
+    <Compile Include="ClassifyPluginTypeAttribute.cs" />
+    <Compile Include="DeviceArchiveItemType.cs" />
+    <Compile Include="DeviceArchiveItemTypeAttribute.cs" />
+    <Compile Include="DeviceArchiveItemTypeCollection.cs" />
+    <Compile Include="DeviceArchiveItemTypeInfo.cs" />
+    <Compile Include="DeviceArchiveWarningException.cs" />
+    <Compile Include="GlobalPluginTypeAttribute.cs" />
+    <Compile Include="IClassifyCheck.cs" />
+    <Compile Include="IClassifyHtmlPlugin.cs" />
+    <Compile Include="IClassifyPlugin.cs" />
+    <Compile Include="IDeviceArchiveDeleteItem.cs" />
+    <Compile Include="IDeviceArchiveItem.cs" />
+    <Compile Include="IDeviceArchiveUpdateItem.cs" />
+    <Compile Include="IGlobalCheck.cs" />
+    <Compile Include="IHtmlContext.cs" />
+    <Compile Include="IOperationPlugin.cs" />
+    <Compile Include="ISystemConfig.cs" />
+    <Compile Include="ISystemManage.cs" />
+    <Compile Include="Parameters\DayCompareParameter.cs" />
+    <Compile Include="Parameters\DayRangeCompareParameter.cs" />
+    <Compile Include="Parameters\DayRangeParameter.cs" />
+    <Compile Include="Parameters\IDayCompare.cs" />
+    <Compile Include="Parameters\IDayRange.cs" />
+    <Compile Include="Parameters\IDayRangeCompare.cs" />
+    <Compile Include="Parameters\MonthParameter.cs" />
+    <Compile Include="ParameterValue.cs" />
+    <Compile Include="DevicePluginType.cs" />
+    <Compile Include="DevicePluginTypeAttribute.cs" />
+    <Compile Include="FormApplicationClass.cs" />
+    <Compile Include="GlobalPluginType.cs" />
+    <Compile Include="IDeviceHtmlPlugin.cs" />
+    <Compile Include="IDevicePlugin.cs" />
+    <Compile Include="IDeviceCheck.cs" />
+    <Compile Include="IGlobalHtmlPlugin.cs" />
+    <Compile Include="IGlobalPlugin.cs" />
+    <Compile Include="IHtmlPlugin.cs" />
+    <Compile Include="IPagination.cs" />
+    <Compile Include="IParameter.cs" />
+    <Compile Include="IParameterControl.cs" />
+    <Compile Include="IPlugin.cs" />
+    <Compile Include="IPluginTypeImage.cs" />
+    <Compile Include="Parameters\DayParameter.cs" />
+    <Compile Include="Parameters\IDay.cs" />
+    <Compile Include="Parameters\IMonth.cs" />
+    <Compile Include="Plugins\AdminGolbalSortplugin.cs" />
+    <Compile Include="Plugins\ArchiveDeviceSeparatorPlugin.cs" />
+    <Compile Include="Plugins\ArchiveUpdateDeviceSeparatorPlugin.cs" />
+    <Compile Include="Plugins\CallDataDeviceSeparatorPlugin.cs" />
+    <Compile Include="Plugins\FileGlobalSortPlugin.cs" />
+    <Compile Include="Plugins\HelpGlobalSortPlugin.cs" />
+    <Compile Include="Plugins\SystemInfoGlobalHtmlPlugin.cs" />
+    <Compile Include="Plugins\ToolsGlobalSortPlugin.cs" />
+    <Compile Include="Plugins\ViewGlobalSortPlugin.cs" />
+    <Compile Include="PluginType.cs" />
+    <Compile Include="PluginTypeAttribute.cs" />
+    <Compile Include="PluginTypeCollection.cs" />
+    <Compile Include="PluginTypeInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SystemConfigAttribute.cs" />
+    <Compile Include="SystemManageAttribute.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AC.Base\AC.Base.csproj">
+      <Project>{A3D9DA48-A92F-498E-B073-D9361324A3D4}</Project>
+      <Name>AC.Base</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

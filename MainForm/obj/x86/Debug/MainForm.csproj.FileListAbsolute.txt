@@ -1,0 +1,566 @@
+D:\Project\AC.BJHHX\BIN\MainForm.exe
+D:\Project\AC.BJHHX\BIN\MainForm.pdb
+D:\Project\AC.BJHHX\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJHHX\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+D:\Project\AC.BJHHX\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+D:\Project\AC.BJHHX\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.BJHHX\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.BJHHX\MainForm\obj\x86\Debug\MainForm.exe.licenses
+D:\Project\AC.BJHHX\MainForm\obj\x86\Debug\MainForm.exe
+D:\Project\AC.BJHHX\MainForm\obj\x86\Debug\MainForm.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe
+C:\Users\zhangmeng-VM\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.JSGS\BIN\MainForm.exe
+C:\Users\zhangmeng-VM\Desktop\AC.JSGS\BIN\MainForm.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.JSGS\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangmeng-VM\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\zhangmeng-VM\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmPad.resources
+C:\Users\zhangmeng-VM\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\zhangmeng-VM\Desktop\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangmeng-VM\Desktop\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe
+D:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.pdb
+D:\江苏高速\AC.JSGS\BIN\MainForm.exe
+D:\江苏高速\AC.JSGS\BIN\MainForm.pdb
+D:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+D:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmPad.resources
+D:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+D:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe.licenses
+F:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe
+F:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.pdb
+F:\AC.JSGS\BIN\MainForm.exe
+F:\AC.JSGS\BIN\MainForm.pdb
+F:\AC.JSGS\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+F:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmPad.resources
+F:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+F:\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LiangDaoMin\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe
+C:\Users\LiangDaoMin\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.pdb
+C:\Users\LiangDaoMin\Desktop\AC.JSGS\BIN\MainForm.exe
+C:\Users\LiangDaoMin\Desktop\AC.JSGS\BIN\MainForm.pdb
+C:\Users\LiangDaoMin\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\LiangDaoMin\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\LiangDaoMin\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmPad.resources
+C:\Users\LiangDaoMin\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\LiangDaoMin\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+F:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe
+F:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.pdb
+F:\江苏高速\AC.JSGS\BIN\MainForm.exe
+F:\江苏高速\AC.JSGS\BIN\MainForm.pdb
+F:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+F:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmPad.resources
+F:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+F:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Projects\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe
+H:\Projects\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.pdb
+H:\Projects\江苏高速\AC.JSGS\BIN\MainForm.exe
+H:\Projects\江苏高速\AC.JSGS\BIN\MainForm.pdb
+H:\Projects\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+H:\Projects\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+H:\Projects\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmPad.resources
+H:\Projects\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+H:\Projects\江苏高速\AC.JSGS\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.pdb
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\BIN\MainForm.exe
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\BIN\MainForm.pdb
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmPad.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.FreSetting.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.PerformanceConfig.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.pdb
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\BIN\MainForm.exe
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\BIN\MainForm.pdb
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.FreSetting.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmPad.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.PerformanceConfig.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Config.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Config.resources
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\AC.JSGS\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\AC.JSGS\BIN\MainForm.exe
+C:\Users\Administrator\Desktop\AC.JSGS\BIN\MainForm.pdb
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Config.resources
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Form1.resources
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.FreSetting.resources
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmPad.resources
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Main.resources
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.PerformanceConfig.resources
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe.licenses
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe
+C:\Users\Administrator\Desktop\AC.JSGS\MainForm\obj\x86\Debug\MainForm.pdb
+D:\AC.JSGS\BIN\MainForm.exe
+D:\AC.JSGS\BIN\MainForm.pdb
+D:\AC.JSGS\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Config.resources
+D:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.FreSetting.resources
+D:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmPad.resources
+D:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Main.resources
+D:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.PerformanceConfig.resources
+D:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+D:\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe.licenses
+D:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.exe
+D:\AC.JSGS\MainForm\obj\x86\Debug\MainForm.pdb
+D:\Project\AC.JSGS\BIN\Diagnostic Equipment.exe
+D:\Project\AC.JSGS\BIN\Diagnostic Equipment.pdb
+D:\Project\AC.JSGS\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.JSGS\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+D:\Project\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+D:\Project\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.JSGS\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.JSGS\MainForm\obj\x86\Debug\Diagnostic Equipment.exe.licenses
+D:\Project\AC.JSGS\MainForm\obj\x86\Debug\Diagnostic Equipment.exe
+D:\Project\AC.JSGS\MainForm\obj\x86\Debug\Diagnostic Equipment.pdb
+D:\Project\AC.JSGS\MainForm\obj\x86\Debug\MainForm.Form1.resources
+D:\Project\AC.DE\MainForm\obj\x86\Debug\Diagnostic Equipment.exe
+D:\Project\AC.DE\MainForm\obj\x86\Debug\Diagnostic Equipment.pdb
+D:\Project\AC.DE\BIN\Diagnostic Equipment.exe
+D:\Project\AC.DE\BIN\Diagnostic Equipment.pdb
+D:\Project\AC.DE\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.DE\MainForm\obj\x86\Debug\MainForm.Form1.resources
+D:\Project\AC.DE\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+D:\Project\AC.DE\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+D:\Project\AC.DE\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.DE\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.DE\MainForm\obj\x86\Debug\Diagnostic Equipment.exe.licenses
+D:\Project\AC.BJQZJ\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+D:\Project\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+D:\Project\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\AC.BJQZJ\BIN\iservice.exe
+D:\Project\AC.BJQZJ\BIN\iservice.pdb
+D:\Project\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.exe
+D:\Project\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.pdb
+D:\gp\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.exe
+D:\gp\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.pdb
+D:\gp\AC.BJQZJ\BIN\iservice.exe
+D:\gp\AC.BJQZJ\BIN\iservice.pdb
+D:\gp\AC.BJQZJ\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\gp\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+D:\gp\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+D:\gp\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+D:\gp\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\gp\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\高鹏\功率源\AC.BJQZJ\BIN\iservice.exe
+E:\高鹏\功率源\AC.BJQZJ\BIN\iservice.pdb
+E:\高鹏\功率源\AC.BJQZJ\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\高鹏\功率源\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+E:\高鹏\功率源\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+E:\高鹏\功率源\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+E:\高鹏\功率源\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\高鹏\功率源\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\高鹏\功率源\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.exe
+E:\高鹏\功率源\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.pdb
+E:\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.exe
+E:\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.pdb
+E:\AC.BJQZJ\BIN\iservice.exe
+E:\AC.BJQZJ\BIN\iservice.pdb
+E:\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+E:\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+E:\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+E:\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+D:\高鹏\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.exe
+D:\高鹏\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.pdb
+D:\高鹏\AC.BJQZJ\BIN\iservice.exe
+D:\高鹏\AC.BJQZJ\BIN\iservice.pdb
+D:\高鹏\AC.BJQZJ\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\高鹏\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+D:\高鹏\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+D:\高鹏\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+D:\高鹏\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\高鹏\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\BIN\iservice.exe
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZJ\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJ\BIN\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJ\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\iservice.exe
+C:\Users\zhangmeng-VM\Desktop\AC.BJQZ修改连接\AC.BJQZJ\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGP\BIN\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGP\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGP\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGP\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGP\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\BIN\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\BIN\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\MainForm\obj\x86\Debug\MainForm.messageshow.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW126\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\BIN\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW128\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\BIN\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\BIN\iservice.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW129\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\BIN\iservice.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1219\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1220\BIN\iservice.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1220\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\BIN\iservice.exe
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1220\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\BIN\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW1225\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1231\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW1231\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\BIN\iservice.exe
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\BIN\iservice.exe
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\AC.BJQZJGPNEW\AC.BJQZJGP\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\BIN\iservice.exe
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\Desktop NEW\AC.BJQZJGP\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\AC.BJQZJGP\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AC.BJQZJGP\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\AC.BJQZJGP\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\WORK\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\WORK\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体0309\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体0309\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体0309\AC.BJQZJGPNEW\BIN\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体0309\AC.BJQZJGPNEW\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体0309\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体0309\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\北京新台体0309\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体0309\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\北京新台体0309\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体0311\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体0311\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体0311\北京新台体0310\AC.BJQZJGPNEW\BIN\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体0311\北京新台体0310\AC.BJQZJGPNEW\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体0311\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体0311\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\北京新台体0311\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体0311\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\北京新台体0311\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\BIN\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\北京新台体0312\北京新台体0310\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\BIN\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\北京新台体0316\北京新台体0312\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体0317最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体0317最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\BIN\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\BIN\iservice.exe
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\WORK\北京新台体\北京新台体最新版（不可用实体表的老版）\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+D:\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+D:\北京新台体最新版\AC.BJQZJGPNEW\BIN\iservice.exe
+D:\北京新台体最新版\AC.BJQZJGPNEW\BIN\iservice.pdb
+D:\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+D:\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+D:\北京新台体最新版\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\iservice.exe
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\iservice.pdb
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\WORK\work\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.exe
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\iservice.pdb
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\iservice.exe
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\BIN\iservice.pdb
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\WORK\北京新台体最新版(实体表)\AC.BJQZJGPNEW\MainForm\obj\x86\Debug\MainForm.frmWait.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\BIN\iservice.exe
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\BIN\iservice.pdb
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.frmWait.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.exe
+F:\WORK\北京新台体最新版(实体表)\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\BIN\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.frmWait.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+E:\项目\北京\北京新型台体\北京新台体最新版(实体表) 20170317已连接加密机,更改台体ip\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.exe
+E:\项目\北京\北京新型台体\北京新台体最新版(实体表) 20170317已连接加密机,更改台体ip\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.pdb
+E:\sjt 电脑文件\项目\北京\北京新型台体\北京新台体最新版(实体表) 20170317已连接加密机,更改台体ip\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.exe
+E:\sjt 电脑文件\项目\北京\北京新型台体\北京新台体最新版(实体表) 20170317已连接加密机,更改台体ip\北京新台体最新版(实体表) 20170314已连接加密机\北京新台体最新版(实体表) 20170303\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\BIN\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\BIN\iservice.pdb
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.frmWait.resources
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+E:\sjt 电脑文件\项目\北京\北京新型台体\新型台体 698终端调试软件645部分完成版\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.exe
+E:\sjt 电脑文件\项目\北京\北京新型台体\新型台体 698终端调试软件645部分完成版\北京新台体带实体表检测台前置机\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\BIN\iservice.exe
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\BIN\iservice.pdb
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.frmWait.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\zhangmeng\Desktop\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\iservice.exe
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\iservice.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\iservice.exe
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\iservice.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.frmWait.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\iservice.exe
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\iservice.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\iservice.exe
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\iservice.pdb
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.frmWait.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+E:\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-26-2\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\iservice.exe
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\BIN\iservice.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.frmWait.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\iservice.exe
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16\北京新台体带实体表检测台前置机夏工实验室 添加698抄表报文详细判断2017-4-23\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\iservice.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\iservice.exe
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\iservice.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\BIN\iservice.exe
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\BIN\iservice.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.frmWait.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机夏工实验室 698 最终版 2017-5-16 finally\北京新台体带实体表检测台前置机-1\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\iservice.exe
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\iservice.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\BIN\iservice.exe
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\BIN\iservice.pdb
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\MainForm.frmWait.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+E:\公司文件\项目\北京\北京新型台体\面向对象调试最终完成版\实体表版本\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机夏工实验室 698  2017-6-19\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\Administrator\Desktop\北京新台体带实体表检测台前置机夏工实验室 698  2017-6-19\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\iservice.pdb
+E:\BaiduYunDownload\北京新台体带实体表检测台前置机夏工实验室 698  2017-6-23\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\iservice.exe
+E:\BaiduYunDownload\北京新台体带实体表检测台前置机夏工实验室 698  2017-6-23\北京新台体带实体表检测台前置机698  2017-6-19\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\MainForm\obj\x86\Debug\iservice.exe
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\MainForm\obj\x86\Debug\iservice.pdb
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\BIN\iservice.exe
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\BIN\iservice.pdb
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.frmMain.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.frmWait.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.Properties.Resources.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.SeverInitForm.resources
+C:\Users\琚\Desktop\检测台前置机\检测台前置机\实体表检测台前置机\MainForm\obj\x86\Debug\MainForm.csproj.GenerateResource.Cache

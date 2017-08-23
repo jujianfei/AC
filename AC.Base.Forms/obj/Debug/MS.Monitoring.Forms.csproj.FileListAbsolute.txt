@@ -1,0 +1,6 @@
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.Forms.XML
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.Forms.dll
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.Forms.pdb
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.dll
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.pdb

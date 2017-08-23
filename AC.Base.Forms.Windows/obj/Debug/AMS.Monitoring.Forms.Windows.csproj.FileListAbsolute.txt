@@ -1,0 +1,131 @@
+D:\new AMS\AMSBin\AMS.Monitoring.Forms.Windows.dll.config
+D:\new AMS\AMSBin\AMS.Monitoring.Forms.Windows.dll
+D:\new AMS\AMSBin\AMS.Monitoring.Forms.Windows.pdb
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.ClassifySetting.resources
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.OrganizationConfig.resources
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.ChannelDriveChannelServiceMemberInfoForm.resources
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Properties.Resources.resources
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.dll
+D:\new AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.pdb
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.Forms.Windows.dll.config
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.Forms.Windows.dll
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.Forms.Windows.pdb
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.ClassifySetting.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.ChannelDriveChannelServiceMemberInfoForm.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Properties.Resources.resources
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.dll
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.pdb
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.Forms.Windows.XML
+E:\AMS\AMS\AMSBin\AMS.Monitoring.Forms.Windows.dll
+E:\AMS\AMS\AMSBin\AMS.Monitoring.Forms.Windows.dll.config
+E:\AMS\AMS\AMSBin\AMS.Monitoring.Forms.Windows.pdb
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.SQLServerDbConfig.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.ClassifySetting.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.DepartmentManageForm.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.OrganizationConfig.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.RoadClassifyManageForm.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.RoadMananger.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Properties.Resources.resources
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.dll.licenses
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.dll
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.pdb
+E:\AMS\AMS\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.ArchiveUpdateDevicePlugin.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Properties.Resources.resources
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.dll
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.pdb
+D:\Project\CQRM\AMSBin\AMS.Monitoring.Forms.Windows.dll.config
+D:\Project\CQRM\AMSBin\AMS.Monitoring.Forms.Windows.dll
+D:\Project\CQRM\AMSBin\AMS.Monitoring.Forms.Windows.pdb
+D:\Project\CQRM\AMSBin\AMS.Monitoring.Forms.Windows.XML
+D:\Project\CQRM\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\BJGH\AMSBin\AMS.Monitoring.Forms.Windows.dll.config
+D:\Project\BJGH\AMSBin\AMS.Monitoring.Forms.Windows.XML
+D:\Project\BJGH\AMSBin\AMS.Monitoring.Forms.Windows.dll
+D:\Project\BJGH\AMSBin\AMS.Monitoring.Forms.Windows.pdb
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.SQLServerDbConfig.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.ClassifySetting.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.DepartmentManageForm.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.OrganizationConfig.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.RoadClassifyManageForm.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.RoadMananger.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.DeviceSearchControlView.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Properties.Resources.resources
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.dll
+D:\Project\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.pdb
+E:\My Project\h互换测试系统\b北京\BJGH\AMSBin\AMS.Monitoring.Forms.Windows.dll.config
+E:\My Project\h互换测试系统\b北京\BJGH\AMSBin\AMS.Monitoring.Forms.Windows.XML
+E:\My Project\h互换测试系统\b北京\BJGH\AMSBin\AMS.Monitoring.Forms.Windows.dll
+E:\My Project\h互换测试系统\b北京\BJGH\AMSBin\AMS.Monitoring.Forms.Windows.pdb
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\ResolveAssemblyReference.cache
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.frmCreateSQLServerOptions.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Database.SQLServerDbConfig.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.ClassifySetting.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManage.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.CommonCustomClassifyManageForm.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.DepartmentManageForm.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.OrganizationConfig.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.RoadClassifyManageForm.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Manages.RoadMananger.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.DeviceSearchControlView.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.DeviceSearchSettingForm.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeForm.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Plugins.SelectDeviceTypeNonSortForm.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.Properties.Resources.resources
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.read.1.tlog
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\GenerateResource.write.1.tlog
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.dll
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms.Windows\obj\Debug\AMS.Monitoring.Forms.Windows.pdb

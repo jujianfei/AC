@@ -1,0 +1,34 @@
+D:\new AMS\AMSBin\AMS.Monitoring.Forms.dll
+D:\new AMS\AMSBin\AMS.Monitoring.Forms.pdb
+D:\new AMS\AMS.Monitoring.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\new AMS\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.dll
+D:\new AMS\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.pdb
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.Forms.dll
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.Forms.pdb
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.dll
+D:\Repositories\JK-LDJK\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.pdb
+D:\Repositories\JK-LDJK\AMSBin\AMS.Monitoring.Forms.XML
+E:\AMS\AMS\AMSBin\AMS.Monitoring.Forms.dll
+E:\AMS\AMS\AMSBin\AMS.Monitoring.Forms.pdb
+E:\AMS\AMS\AMS.Monitoring.Forms\obj\Debug\ResolveAssemblyReference.cache
+E:\AMS\AMS\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.dll
+E:\AMS\AMS\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.pdb
+D:\Project\CQRM\AMS.Monitoring.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\CQRM\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.dll
+D:\Project\CQRM\AMSBin\AMS.Monitoring.Forms.dll
+D:\Project\CQRM\AMSBin\AMS.Monitoring.Forms.pdb
+D:\Project\CQRM\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.pdb
+D:\Project\CQRM\AMSBin\AMS.Monitoring.Forms.XML
+D:\Project\BJGH\AMSBin\AMS.Monitoring.Forms.XML
+D:\Project\BJGH\AMSBin\AMS.Monitoring.Forms.dll
+D:\Project\BJGH\AMSBin\AMS.Monitoring.Forms.pdb
+D:\Project\BJGH\AMS.Monitoring.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\BJGH\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.dll
+D:\Project\BJGH\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.pdb
+E:\My Project\h互换测试系统\b北京\BJGH\AMSBin\AMS.Monitoring.Forms.XML
+E:\My Project\h互换测试系统\b北京\BJGH\AMSBin\AMS.Monitoring.Forms.dll
+E:\My Project\h互换测试系统\b北京\BJGH\AMSBin\AMS.Monitoring.Forms.pdb
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms\obj\Debug\ResolveAssemblyReference.cache
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.dll
+E:\My Project\h互换测试系统\b北京\BJGH\AMS.Monitoring.Forms\obj\Debug\AMS.Monitoring.Forms.pdb
